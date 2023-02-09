@@ -74,7 +74,6 @@ extern INT DebugINT;
 CPSKDet::CPSKDet()
 {
 	m_RxFrequency = 1500;
-	m_SampleClkAdj = 0;
 	m_Fs = 8000;
 	m_IQPhzIndex = 0;
 	m_AFCmode = AFC_ON;
