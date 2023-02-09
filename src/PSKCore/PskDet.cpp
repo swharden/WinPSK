@@ -150,7 +150,7 @@ INT i;
 	m_z1.x = 0.0; m_z1.y = 0.0;
 	m_z2.x = 0.0; m_z2.y = 0.0;
 	m_FferrAve = 0.0;
-	m_FferrAve = 0.0;
+	m_FperrAve = 0.0;
 	m_QFreqError = 0.0;
 	m_LastPkPos = 0;
 	m_SQOpen = FALSE;
